@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Edison Malagón</h1>
+<h3 align="center">Soy alguien apasionado por la programación</h3>
 
-<!--
-**EdisonMalagon/EdisonMalagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Actualmente estoy aprendiendo **Química**
 
-Here are some ideas to get you started:
+- 📫 Cómo contactarme **fabianmalagonramos21@hotmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Dato curioso **Creo que soy gracioso**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left" >
+<a href="https://fb.com/fabian ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/facebook.svg" alt="fabian ramos" height="30" width="40" /></a>
+<a href="https://instagram.com/fabian.ramos.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabian.ramos.21" height="30" width="40" /></a>
+<a href="https ://discord.gg/Simplemente#0119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/discord.svg" alt="Simplemente#0119" height="30" width="40" /></a>
+</p>
